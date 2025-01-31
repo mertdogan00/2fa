@@ -108,9 +108,6 @@ def main():
     generate_qr_code(secret_key, qr_filename)
     print(f"📸 QR Code saved as: {qr_filename}")
 
-    otp = generate_totp(secret_key)
-    print(f"🔢 Your OTP Code: {otp}")
-
 if __name__ == "__main__":
     main()
 ```
