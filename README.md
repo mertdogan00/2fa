@@ -22,7 +22,7 @@ This project is a **Two-Factor Authentication (2FA) code generator** written in 
 
 1️⃣ **Clone the repository**
 ```sh
-git clone https://github.com/mertdogan00/2fa.git
+git clone https://github.com/mertdogan00/2fa-toolkit.git
 cd 2fa
 ```
 
